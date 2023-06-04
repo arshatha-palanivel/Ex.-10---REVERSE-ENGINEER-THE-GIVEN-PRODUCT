@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![](./input.png)
 ### Output:
+![](./010.png)
+
+![](./0101.png)
 
 
-### Name:
-### Register Number:
+### Name: Arshatha P
+### Register Number: 212222230012
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
